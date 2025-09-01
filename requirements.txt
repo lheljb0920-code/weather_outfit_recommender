@@ -1,0 +1,10 @@
+﻿flask
+requests
+googletrans==4.0.0rc1
+pillow
+scikit-learn
+opencv-python
+numpy
+matplotlib
+ipywidgets
+nest_asyncio
