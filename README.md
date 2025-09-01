@@ -7,3 +7,7 @@ OpenWeatherMap의 현재 날씨(한글 설명)와 온도를 불러와 **기온(�
 project11/ # 의상 PNG 이미지들
 server.ipynb # 서버 노트북
 client.ipynb # 클라이언트 노트북
+<p align="center">
+  <img src="docs/images/outfit1.png" alt="outfit sample 1" width="45%">
+  <img src="docs/images/outfit2.png" alt="outfit sample 2" width="45%">
+</p>
